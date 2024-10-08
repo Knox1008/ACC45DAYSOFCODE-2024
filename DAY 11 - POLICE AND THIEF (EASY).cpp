@@ -7,7 +7,7 @@ int main() {
     while (T--) {
         int X, Y;
         cin >> X >> Y;
-        cout << abs(X - Y) / 1 << endl;
+        cout << abs(X - Y)<< endl;
     }
     return 0;
 }
